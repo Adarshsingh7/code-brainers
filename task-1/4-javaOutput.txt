@@ -1,0 +1,1 @@
+Data type of variable 'result' will be double as it is the largest data type in whole code.

@@ -1,0 +1,1 @@
+In Java, the dollar sign is not a valid character for variable names. Therefore, the statement “int $ = 4” will result in a compile-time error1
